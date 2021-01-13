@@ -25,11 +25,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarkhare47&show_icons=true&locale=en&layout=compact" alt="sanskarkhare47" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskarkhare47&show_icons=true&locale=en" alt="sanskarkhare47" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarkhare47&" alt="sanskarkhare47" /></p>
 
 
 
